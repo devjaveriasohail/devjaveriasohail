@@ -1,0 +1,5 @@
+- 👋 Hi there, I’m Javeria Sohail.
+- 🌱 I’m currently learning  bachelor degree program in software engineering.
+- 👀 I’m interested in learning developing technology and contributing in them.
+- 💞️ I’m looking to collaborate on upcoming project.
+- 📫 How to reach me ? you can email me at javeriasohail996@gmail.com
